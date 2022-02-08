@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Christian</h1>
 <h2>A passionate developer that really like do stuff with 3D</h3>
 
+<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 - 👨‍💻 Take a look at my portfolio [https://christiantomasino.fr/](https://christiantomasino.fr/)
 
 - 📫 How to reach me: **christian.tomasino.dev@gmail.com**
