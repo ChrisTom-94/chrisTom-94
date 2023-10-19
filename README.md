@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Christian</h1>
 <h2 align="left">A passionate developer that really like do stuff with 3D</h3>
 
-<p align="left">Actually in the first year of master's degree in computer science at University of Burgundy</p>
+<p align="left">Actually in the last year of master's degree in computer graphics at University of Burgundy</p>
 
 <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
