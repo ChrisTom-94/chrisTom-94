@@ -5,11 +5,7 @@
 
 <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 Take a look at my portfolio [https://christiantomasino.fr/](https://christiantomasino.fr/)
-
 - 📫 How to reach me: <a mailto="christian.tomasino.dev@gmail.com">**christian.tomasino.dev@gmail.com**</a>
-
-- ⚡ Fun fact: **I can't say no if you offers me a waffel 🧇**
 
 <br>
 
